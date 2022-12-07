@@ -1,73 +1,56 @@
  <center>
-     <h1>XXX</h1>
+     <h1>刘义千的个人简历</h1>
  </center>
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com    
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：30  
+* 手 机：18588477667 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：815296298@qq.com    
+* 专 业：计算机应用技术 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：前端工程师
 
 ## 工作及教育经历
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+* 武汉惟实信&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2022.4~至今&emsp;&emsp;&emsp;&emsp;&emsp; 研发部       
+* 自由职业&emsp;&emsp;&emsp;&emsp;&emsp;2020.1~2022.3&emsp;&emsp;&emsp;&emsp; 自己接项目做
+* 深圳云宝聚合&emsp;&emsp;&emsp;&emsp;&emsp;2018.6~2020.1&emsp;&emsp;&emsp;&emsp; 研发部-前端组组长
+* 深圳极致未来科技&emsp;&emsp;&emsp;&emsp;&emsp;2016.7~2018.6&emsp;&emsp;&emsp;&emsp; 研发部-前端工程师          
+* 武汉理工大学华夏学院&emsp;&emsp;&emsp;&emsp;&emsp;2011.9~2014.7&emsp;&emsp;&emsp;&emsp; 计算机应用技术-专科  
 
 ## 专业技能
 
-* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
+* 近2年熟练使用 Vue技术栈，掌握css/css3,html/html5,javascript/es5/es6,有过uniapp混合开发实际经验，有过react技术栈开发经验，了解 Java、Python、nodejs 等编程语言
 * 掌握基础数据结构和算法的基本原理
-* 等等
+* 英语阅读能力尚可
 
 ## 项目经历
 
-1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512 
-    * 具体功能 
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址 
+1. 武汉惟实信 - 数字化战场 - 协同开发 - 202204- 202212 
+    * 视频调度，视频会议，语音调度，gis地图调度等 
+    * 涉及技术webrtc，sip协议，Dplayer视频播放库，arcgis等，技术难点是稳定性，地图数据量比较大加载慢等问题
+    * 个人对项目的贡献：项目组件化完成，公共库抽离，大数据量定时加载速度优化
+    * [demo演示地址](https://183.95.190.7:18086/staticPage/threeScreenBoxPc/index.html#/gisplatform)
 
-2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401 
-    * 具体功能 
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址 
-
-## 获奖经历
-* XXX 优秀新人
-* XXX 学生社团优秀干部
-* 竞赛 XXX 奖
+2. 自由职业期间 - 返佣app（android，ios）- 独立开发 - 202110- 202211 
+    * 基本功能：购买商品返佣 
+    * 技术栈uniapp+vue
+    * 技术难点是权限问题，多平台问题，国际时间统一，多线路支持，接口探测
+    * [github地址](https://github.com/Larryliuy/fanyong)
+  
+3. 深圳云宝聚合 - 中台系统 - 主导开发 - 201806- 20201 
+    * 管理前端各个C端系统的权限分配与生成资料
+    * 技术栈：react技术栈
+    * 项目难点：1，请求策略优化（队列请求），2，复杂的权限系统，3，独立项目演化成最后的多个子系统集成
+  
+4. 深圳极致未来科技 - web直播平台 - 独立开发 - 201708- 201804 
+    * 实现了多人语音，视频直播，连麦，视频点播（能直接解析主流媒体网址视频）等功能
+    * 技术栈：react技术栈，webRTC，webAudio，webSocket
+    * 项目难点：1，不经过服务器实现多人语音会议，视频直播 2，webAudio混音技术
+    * [github地址](https://github.com/Larryliuy/xhello)
 
 ## 个人账号 
 * blog 地址 (附加自己博客特色，写了哪些技术文章)
 * github 地址 (附加自己github特色，突出的项目)
 
 ## 其他信息 
-* 喜欢钻研技术 等等
-* 性格开朗，喜欢跳舞，做个主持人 等等 
-
-> 简历的word版本，可以在我的公众号[代码随想录](https://img-blog.csdnimg.cn/20200815195519696.png)中，后台回复：简历模板，别可获取
-
-# 关于作者
-
-大家好，我是程序员Carl，哈工大师兄，ACM 校赛、黑龙江省赛、东北四省赛金牌、亚洲区域赛铜牌获得者，先后在腾讯和百度从事分布式技术研发。
-
-也欢迎与我交流，备注：「个人简单介绍」 + 交流，围观朋友圈，做点赞之交（备注没有自我介绍不通过哦）
-
-<a name="微信"></a>
-<img src="https://img-blog.csdnimg.cn/20200814140330894.png" data-img="1" width="175" height="175">
-
-# 公众号
-
-更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：「666」可以获得所有算法专题原创PDF。
-
-
-**「代码随想录」每天准时为你推送一篇经典面试题目，帮你梳理算法知识体系，轻松学习算法！**，并且公众号里有大量学习资源，也有我自己的学习心得和方法总结，更有上万录友们在这里打卡学习。
-
-**来看看就知道了，你会发现相见恨晚！**
-
-<a name="公众号"></a>
-
-![](https://github.com/youngyangyang04/leetcode-master/blob/master/pics/%E5%85%AC%E4%BC%97%E5%8F%B7.png)
-
+* 喜欢钻研技术
+* 性格开朗，喜欢音乐，乐于助人 
