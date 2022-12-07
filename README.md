@@ -5,16 +5,16 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：30  
-* 手 机：18588477667 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：815296298@qq.com    
-* 专 业：计算机应用技术 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：前端工程师
+* 手 机：18588477667 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; 邮 箱：815296298@qq.com    
+* 专 业：计算机应用技术 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; 岗 位：前端工程师
 
 ## 工作及教育经历
 
 * 武汉惟实信&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2022.4~至今&emsp;&emsp;&emsp;&emsp;&emsp; 研发部       
-* 自由职业&emsp;&emsp;&emsp;&emsp;&emsp;2020.1~2022.3&emsp;&emsp;&emsp;&emsp; 自己接项目做
-* 深圳云宝聚合&emsp;&emsp;&emsp;&emsp;&emsp;2018.6~2020.1&emsp;&emsp;&emsp;&emsp; 研发部-前端组组长
-* 深圳极致未来科技&emsp;&emsp;&emsp;&emsp;&emsp;2016.7~2018.6&emsp;&emsp;&emsp;&emsp; 研发部-前端工程师          
-* 武汉理工大学华夏学院&emsp;&emsp;&emsp;&emsp;&emsp;2011.9~2014.7&emsp;&emsp;&emsp;&emsp; 计算机应用技术-专科  
+* 自由职业 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  2020.1~2022.3&emsp;&emsp;&emsp;&emsp; 自己接项目做
+* 深圳云宝聚合 &emsp;&emsp;&emsp;&emsp;&emsp; 2018.6~2020.1&emsp;&emsp;&emsp;&emsp; 研发部-前端组组长
+* 深圳极致未来科技 &emsp;&emsp;&emsp; 2016.7~2018.6&emsp;&emsp;&emsp;&emsp; 研发部-前端工程师          
+* 武汉理工大学华夏学院 &emsp; 2011.9~2014.7&emsp;&emsp;&emsp;&emsp; 计算机应用技术-专科  
 
 ## 专业技能
 
